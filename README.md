@@ -1,2 +1,2 @@
 # Speedy
-Projer de la nuit de l'info
+Projet de la nuit de l'info
